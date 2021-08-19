@@ -10,7 +10,14 @@ Olá eu sou Vinicius Italo! <br />
   <li>Ver Series</li>
   <li>Escutar Músicas</li>
   <li>Criação de projetos para testes</li>
-</ul>
+</ul><br />
+**Metas**
+
+- [x] Usabilidade do Styled Components
+- [x] Entendimento de funcionamento do React JS
+- [x] Entendimento de funcionamento do Next JS
+- [ ] Especializar em Typescript
+
 <div>
   <a href="https://github.com/viniciusidacruz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusidacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
