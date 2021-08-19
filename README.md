@@ -1,4 +1,11 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil! 👋
+-----------------------------------------
+
+Olá eu sou Vinicius Italo! <br />
+**Desenvolvedor Front-end**
+
+<br />
+<br />
 
 <div>
   <a href="https://github.com/viniciusidacruz">
