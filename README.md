@@ -11,6 +11,7 @@ Olá eu sou Vinicius Italo! <br />
   <li>Escutar Músicas</li>
   <li>Criação de projetos para testes</li>
 </ul><br />
+
 **Metas**
 
 - [x] Usabilidade do Styled Components
