@@ -3,10 +3,14 @@
 
 Olá eu sou Vinicius Italo! <br />
 **Desenvolvedor Front-end**
-
 <br />
 <br />
-
+**Hobbies** <br />
+<ul>
+  <li>Ver Series</li>
+  <li>Escutar Músicas</li>
+  <li>Criação de projetos para testes</li>
+</ul>
 <div>
   <a href="https://github.com/viniciusidacruz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusidacruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
