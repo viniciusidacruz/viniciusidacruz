@@ -14,7 +14,9 @@ Olá eu sou Vinicius Italo! <br />
 
 **Metas**
 
-- [x] Usabilidade do Styled Components
+- [x] Usabilidade de HTML
+- [x] Usabilidade de CSS
+- [x] Usabilidade de Sass
 - [x] Entendimento de funcionamento do React JS
 - [x] Entendimento de funcionamento do Next JS
 - [ ] Especializar em Typescript
