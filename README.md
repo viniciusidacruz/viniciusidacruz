@@ -12,14 +12,19 @@ Olá eu sou Vinicius Italo! <br />
   <li>Criação de projetos para testes</li>
 </ul><br />
 
-**Metas**
+**Skills**
 
-- [x] Usabilidade de HTML
-- [x] Usabilidade de CSS
-- [x] Usabilidade de Sass
-- [x] Entendimento de funcionamento do React JS
-- [x] Entendimento de funcionamento do Next JS
-- [ ] Especializar em Typescript
+- [x] HTML
+- [x] CSS
+- [x] Sass
+- [x] React JS
+- [x] Next JS
+- [x] Typescript
+- [x] Context API
+- [x] Redux
+- [x] Material UI v4 e v5
+- [x] Chakra UI
+- [x] Styled-components
 
 <div>
   <a href="https://github.com/viniciusidacruz">
